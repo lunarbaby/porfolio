@@ -1,0 +1,49 @@
+.topnav-right{
+  float: right;
+}
+
+.topnav{
+  font-family:'Dancing Script', cursive;
+  background-color: black;
+  padding: 0.5em;
+  font-size: 2em;
+}
+
+.pageOne{
+  background-color: purple;
+  color: white;
+  margin: 0;
+  padding: 2em;
+}
+
+p{
+ text-align: center;
+ font-size: 4em;
+ font-family:'Dancing Script', cursive;
+}
+
+.pageTwo{
+  background-color: grey;
+  font-family:'Dancing Script', cursive;
+  text-align: center;
+  color: white;
+  margin: 0;
+  padding: 2em;
+}
+
+.pageThree{
+  background-color: purple;
+  font-family:'Dancing Script', cursive;
+  color: white;
+  padding: 3em;
+  margin: 0;
+}
+
+.btn-default{
+  background-color: white;
+  font-size: 2em;
+}
+
+h2{
+  font-size: 4em;
+}
